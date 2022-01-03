@@ -10,4 +10,4 @@ For the next 100 days, I will be working through the free course "100 Days of Sw
 So be sure to check back every day to see what new things I learn and create throughout these next 100 days!
 
 
-[Day 0 – tips and advice before you start](https://github.com/PaceWC/100-Days-of-SwiftUI/blob/main/Day%200%20%E2%80%93%20tips%20and%20advice%20before%20you%20start.)
+[Day 0 – tips and advice before you start](https://github.com/PaceWC/100-Days-of-SwiftUI/blob/main/Day%200%20%E2%80%93%20tips%20and%20advice%20before%20you%20start)
