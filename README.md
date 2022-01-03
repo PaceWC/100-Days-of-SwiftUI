@@ -11,3 +11,5 @@ So be sure to check back every day to see what new things I learn and create thr
 
 
 [Day 0 – tips and advice before you start](https://github.com/PaceWC/100-Days-of-SwiftUI/blob/main/Day%200%20%E2%80%93%20tips%20and%20advice%20before%20you%20start.md)
+
+[Day 1 – variables, constants, strings, and numbers.md](https://github.com/PaceWC/100-Days-of-SwiftUI/blob/main/Day%201%20–%20variables%2C%20constants%2C%20strings%2C%20and%20numbers.md)
