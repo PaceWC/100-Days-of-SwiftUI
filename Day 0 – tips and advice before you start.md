@@ -2,7 +2,7 @@
      width="625"
      height="400"/>
      
-<h2>January 1st, 2022</h2>
+# January 1<sup>st</sup>, 2022
 For Day 0, Paul provided some great advice on becoming an iOS Developer and offered many resources to assist in this journey.
 <br>There were no coding exercises today, so I utilized my time to ensure my systems were ready to begin and reviewed how to use Github.
 <br>I decided to use Github too:
