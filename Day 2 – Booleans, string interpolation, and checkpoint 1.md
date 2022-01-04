@@ -1,0 +1,5 @@
+<img src="https://cdn.dopl3r.com//media/memes_files/inches-centimeters-0-celsjus-kelvin-fahrchheit-celsius-all-shouting-eihnf.jpg" />
+     
+# January 3<sup>rd</sup>, 2022
+Day 2 of the course covered the basics of Booleans, joining strings, and provided a recap of the basics of data.
+Day 2 also held the first Checkpoint of the course. This Checkpoint aims to create a simple Celsius to Fahrenheit converter that outputs the values within a string.
