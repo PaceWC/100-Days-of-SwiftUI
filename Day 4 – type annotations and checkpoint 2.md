@@ -7,5 +7,5 @@ Day 4 wrapped up data types with annotation, how a programmer can dictate the ex
 After this, Paul provided a high-level summary of what we had covered since the last checkpoint.
 For checkpoint 2, I wrote some code that would take an array of strings and print the number of items and the number of unique items within the array.
 
-To accomplish this I created a standar array of albums. Then created a set based on that array to give me the unique albums since sets cannot contain duplicate values.
+To accomplish this, I created a standard array of albums. Then I made a set based on that array to give me the unique albums since sets cannot contain duplicate values.
 <img width="1187" alt="image" src="https://user-images.githubusercontent.com/25600329/148662294-b5bce9c5-3ef5-4055-88ee-39f0fb90be19.png">
