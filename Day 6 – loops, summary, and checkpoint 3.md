@@ -11,3 +11,4 @@ For those unaware, FizzBuzz is basically:
   <li>If it's a multiple of 3 and 5, print "FizzBuzz" </li>
   <li>Otherwise, print the number.</li>
 </ol>
+<img width="869" alt="image" src="https://user-images.githubusercontent.com/25600329/148716157-6246dc3d-357d-4a54-9e7a-3dd06c3862a4.png">
